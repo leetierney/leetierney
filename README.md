@@ -17,8 +17,6 @@
 </p>
 <br> -->
 <canvas id="myCanvas" width="500" height="500"></canvas>
-<img id="myImage" src="" />
-
 
  <p align="center">
  <img src="https://komarev.com/ghpvc/?username=ljjtmm&color=brightgreen" alt="watching_count" />
