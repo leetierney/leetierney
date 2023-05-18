@@ -19,11 +19,9 @@
 <canvas id="myCanvas" width="500" height="500"></canvas>
 <img id="myImage" src="" />
 
-<script src="scripts/draw_terrain.js"></script>
-
 
  <p align="center">
- <img src="https://komarev.com/ghpvc/?username=l&color=brightgreen" alt="watching_count" />
+ <img src="https://komarev.com/ghpvc/?username=ljjtmm&color=brightgreen" alt="watching_count" />
 <img src="https://img.shields.io/badge/Age-25-blue" />
   <img src="https://img.shields.io/badge/Focus-Data%20Analytics-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Perth%20WA-success" />
