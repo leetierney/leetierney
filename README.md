@@ -49,7 +49,7 @@
  width="30px">&nbsp;***About me ....***
 
 ✔ Preferred pronouns: ***He/Him*** <br>
-✔ 25 years old. Originally from Dublin, Ireland. <br>
+✔ 26 years old. Originally from Dublin, Ireland. <br>
 ✔ Former Theoretical Physicist, now working as a Business Analyst in the Financial Technology space. <br>
 ✔ Interested in Data Analytics in my free time.<br>
 ✔ Passionate football fan, who supports St. Patrick's Athletic and Manchester United.<br>
