@@ -38,7 +38,8 @@
 
 
 <p align="center">
-    Hi, my name is Lee Tierney and I'm an Irish Business Analyst working with EZOps. In my spare time, I like to work on Data Analytics projects, with a specific focus on the world of football analytics. <br>
+    Hi, my name is Lee Tierney and I'm an Irish Business Analyst. I currently work in Financial Services, with previous experience working in the Financial Technology space, with a focus on developing software for clients within the Financial Services space to satisfy their Data Management needs.
+    In my spare time, I like to work on Data Analytics projects, with a specific focus on the world of football analytics. <br>
     I am a passionate, self-taught Theoretical Physics graduate from Maynooth University, who loves finding patterns and insights in data.
   <br>
 </p>
@@ -70,7 +71,7 @@
 <hr>
 
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=ljjtmm&theme=juicyfresh&no-bg=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=leetierney&theme=juicyfresh&no-bg=true" />
 
 
 -----
