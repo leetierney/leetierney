@@ -22,7 +22,7 @@
  <img src="https://komarev.com/ghpvc/?username=ljjtmm&color=brightgreen" alt="watching_count" />
 <img src="https://img.shields.io/badge/Age-25-blue" />
   <img src="https://img.shields.io/badge/Focus-Data%20Analytics-brightgreen" />
-  <img src="https://img.shields.io/badge/Lives-Perth%20WA-success" />
+  <img src="https://img.shields.io/badge/Lives-Dublin%20Ireland-success" />
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Lee Tierney</h1>
