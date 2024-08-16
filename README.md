@@ -20,7 +20,7 @@
 
  <p align="center">
  <img src="https://komarev.com/ghpvc/?username=ljjtmm&color=brightgreen" alt="watching_count" />
-<img src="https://img.shields.io/badge/Age-25-blue" />
+<img src="https://img.shields.io/badge/Age-26-blue" />
   <img src="https://img.shields.io/badge/Focus-Data%20Analytics-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Dublin%20Ireland-success" />
 </p>
