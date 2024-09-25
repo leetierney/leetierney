@@ -39,7 +39,7 @@
 
 <p align="center">
     Hi, my name is Lee Tierney and I'm an Irish Business Analyst. I currently work in Financial Services, with previous experience working in the Financial Technology space, with a focus on developing software for clients within the Financial Services space to satisfy their Data Management needs.
-    In my spare time, I like to work on Data Analytics projects, with a specific focus on the world of football analytics. <br>
+    I  am currently pursuing my MSc in Computer Science through Technological Univeristy Dublin, with a focus on Data Science. <br>
     I am a passionate, self-taught Theoretical Physics graduate from Maynooth University, who loves finding patterns and insights in data.
   <br>
 </p>
