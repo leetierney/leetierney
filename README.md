@@ -26,7 +26,7 @@
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Lee Tierney</h1>
-<h3 align="center">Business Analyst  | Theoretical Physics Graduate </h3>
+<h3 align="center">Business Analyst  | Theoretical Physics Graduate | Computer Science MSc Student </h3>
 <p align="center">
 <a href="https://www.hackerrank.com/ltrnymrry" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hack_ltrny" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/leetierney/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png?20140125013055" alt="lin_ltrny" height="30" width="40" /></a>  
@@ -38,9 +38,9 @@
 
 
 <p align="center">
-    Hi, my name is Lee Tierney and I'm an Irish Business Analyst. I currently work in Financial Services, with previous experience working in the Financial Technology space, with a focus on developing software for clients within the Financial Services space to satisfy their Data Management needs.
-    I  am currently pursuing my MSc in Computer Science through Technological Univeristy Dublin, with a focus on Data Science. <br>
-    I am a passionate, self-taught Theoretical Physics graduate from Maynooth University, who loves finding patterns and insights in data.
+    Hi, my name is Lee Tierney and I'm an Irish Business Analyst, currently working in Financial Services. I have previous experience working in the Financial Technology space, with a focus on developing software for clients within the Financial Services space to satisfy their Data Management needs.
+    I hold a BSc in Theoretical Physics, and am currently pursuing an MSc in Computer Science, with a focus on Data Science.. <br>
+    I am largely self-taught within the Data Science context, am passionate about finding patterns and insights in data.
   <br>
 </p>
 
@@ -52,7 +52,7 @@
 ✔ Preferred pronouns: ***He/Him*** <br>
 ✔ 26 years old. Originally from Dublin, Ireland. <br>
 ✔ Former Theoretical Physicist, now working as a Business Analyst in the Financial Technology space. <br>
-✔ Interested in Data Analytics in my free time.<br>
+✔ Interested in Data Science in my free time.<br>
 ✔ Passionate football fan, who supports St. Patrick's Athletic and Manchester United.<br>
 <br><br><br><br>
 
